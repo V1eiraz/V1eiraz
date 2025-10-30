@@ -17,7 +17,7 @@
 <br>
 
 ### - Skills:
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)
 
 ### - Como entrar em contato comigo:
 <div> 
