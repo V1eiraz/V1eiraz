@@ -11,13 +11,13 @@
 <div align="center">
   <a href="https://github.com/V1eiraz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V1eiraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1eiraz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="900em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1eiraz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br>
 
 ### - Skills:
-[![My Skills](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,git,github)](https://skillicons.dev)
 
 ### - Como entrar em contato comigo:
 <div> 
