@@ -1,9 +1,10 @@
 <h1> - Olá, eu sou Davi Vieira </h1>
 
 <h4> 
-  - Estudante de Engenharia de Computação <br>
+  - Estudante de Engenharia de Computação no CEFET-MG (Centro Federal de Educação Tecnológica de Minas Gerais <br>
   - Entusiasta de programação, tecnologia e inovação <br>
-  - Sempre em busca de aprender e crescer na área da computação
+  - Sempre em busca de aprender e crescer na área da computação <br>
+  - Inglês básico
 </h4>
 
 <div> 
