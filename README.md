@@ -1,24 +1,26 @@
-### 👋 Olá, eu sou Davi Vieira
+<h1> - Olá, eu sou Davi Vieira </h1>
 
-<br>
+<h4> 
+  - Estudante de Engenharia de Computação <br>
+  - Entusiasta de programação, tecnologia e inovação <br>
+  - Sempre em busca de aprender e crescer na área da computação
+</h4>
 
-- 👨‍💻 Estudante de Engenharia da Computação
-- 🚀 Entusiasta de tecnologia, programação e inovação
-- 🌱 Sempre em busca de aprender e crescer
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/V1eiraz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V1eiraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1eiraz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<br>
-
-### - Skills:
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,git,github)](https://skillicons.dev)
-
-### - Como entrar em contato comigo:
 <div> 
-  <a href="https://www.linkedin.com/in/davi-vieira-8b0332365/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V1eiraz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1eiraz&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=3600"/>
 </div>
+
+<h2> - Skills: </h2>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c,python,git,github" alt="Habilidades" />
+  </a>
+
+<h2> - Como entrar em contato comigo: </h2> 
+  <a href="https://www.linkedin.com/in/davi-vieira-8b0332365/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/> 
+  </a>
+  
+  <a href="mailto:davienzo984@gmail.com" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/> 
+  </a> 
