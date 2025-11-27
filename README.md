@@ -4,7 +4,7 @@
   - Estudante de Engenharia de Computação no CEFET-MG (Centro Federal de Educação Tecnológica de Minas Gerais <br>
   - Entusiasta de programação, tecnologia e inovação <br>
   - Sempre em busca de aprender e crescer na área da computação <br>
-  - Inglês básico
+  - Inglês intermediário 
 </h4>
 
 <div> 
