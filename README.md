@@ -12,7 +12,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mint,arch,linux,vscode,idea,git,github" alt="Habilidades" />
   </a>
 
-<h2> - How contact me: </h2> 
+<h2> - Get in touch: </h2> 
   <a href="https://www.linkedin.com/in/davi-vieira-8b0332365/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/> 
   </a>
