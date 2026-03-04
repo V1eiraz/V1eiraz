@@ -2,7 +2,7 @@
 
 <h4> 
   - Computer engineer at CEFET-MG <br>
-  - Enthusiast about Cybersecurity, computers and inovation <br>
+  - Enthusiast about Cybersecurity, Linux and inovation <br>
   - Always learning about computing <br>
   - I use arch btw 😃
 </h4>
