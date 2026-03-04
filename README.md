@@ -9,7 +9,7 @@
 
 <h2> - Skills: </h2>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mint,arch,blackarch,kali,linux,vscode,idea,git,github" alt="Habilidades" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mint,arch,black arch,kali,linux,vscode,idea,git,github" alt="Habilidades" />
   </a>
 
 <h2> - Get in touch: </h2> 
